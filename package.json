@@ -37,7 +37,7 @@
     "popup"
   ],
   "devDependencies": {
-    "autoprefixer": "^6.4.0",
+    "autoprefixer": "^9.8.6",
     "babel-cli": "6.26.0",
     "babel-eslint": "^6.1.2",
     "babel-loader": "^6.2.5",
