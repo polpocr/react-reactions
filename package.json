@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "emoji-as-array": "^1.0.0",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.21",
     "reactcss": "^1.0.6"
   },
   "directories": {
